@@ -1,0 +1,9 @@
+{
+  "name": "AESJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aes": "^0.1.0"
+  }
+}
