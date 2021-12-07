@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "aes": "^0.1.0"
+    "aes": "^0.1.0",
+    "hash.js": "^1.1.7"
   }
 }
